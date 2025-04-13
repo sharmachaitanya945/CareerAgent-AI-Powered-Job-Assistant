@@ -118,7 +118,7 @@ flowchart TD
 Run the refactored agent that uses the LangChain framework:
 
 ```
-streamlit run refactored_agent.py
+streamlit run main.py
 ```
 
 ## 📈 How to Use
